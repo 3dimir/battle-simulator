@@ -1,0 +1,6 @@
+Warrior,Aragorn,120,18,8
+Mage,Gandalf,80,12,10
+Rogue,Bilbo,90,14,9
+Monster,Goblin,50,8,5
+Monster,Orc,70,13,8
+Monster,Troll,60,10,6
