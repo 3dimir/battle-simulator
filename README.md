@@ -154,7 +154,7 @@ The `Stat` field maps to the class's primary attribute (STR for Warrior/Monster,
 
 - Mages start every battle with exactly 2 Fireballs and 3 Magic Missiles (hard-coded)
 - Initiative is rolled fresh each battle with a d20
-- Fireball, Magic Missile, and Sneak Attack are guaranteed hits (no attack roll)
+- Fireball, Magic Missile, and Sneak Attack are guaranteed hits
 - Rogue's Sneak Attack is only available against targets at 100% HP or ≤20% HP
 - The program exits when the GUI window is closed or after the player confirms the victory/defeat dialog
 
