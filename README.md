@@ -163,5 +163,4 @@ The `Stat` field maps to the class's primary attribute (STR for Warrior/Monster,
 ### Author
 
 Vladislav Lamakin  
-<lamakinvladislav@gmail.com>  
-<https://github.com/3dimir>
+<lamakinvladislav@gmail.com>
